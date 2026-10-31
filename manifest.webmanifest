@@ -1,0 +1,9 @@
+{
+  "name": "铃音计划 · 双角色语音原型",
+  "short_name": "铃音计划",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff9fd",
+  "theme_color": "#f7e9f3",
+  "lang": "zh-CN"
+}
